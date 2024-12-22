@@ -1,6 +1,6 @@
 # $SCAM Meme Coin
 
-$SCAM is a cryptocurrency meme coin created on the Solana blockchain via Pump.
+$SCAM is a cryptocurrency meme coin created on the Solana blockchain via [Pump](https://pump.fun/coin/Gk2XeKE4JHR3MH5tf3JvbbA1ZFba9Af8cebmry2Dpump).
 
 ## Description
 
