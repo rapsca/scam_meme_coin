@@ -1,3 +1,4 @@
+
 # $SCAM Meme Coin
 
 $SCAM is a cryptocurrency meme coin created on the Solana blockchain via [Pump](https://pump.fun/coin/Gk2XeKE4JHR3MH5tf3JvbbA1ZFba9Af8cebmry2Dpump).
@@ -29,6 +30,16 @@ To make it clear, nobody will prevent you from attempting to pump $SCAM's price�
 - [ ] Website (planned for release around around January 2nd)
 - [ ] Discord (created but unpublished, awaiting ~25 active contributors before launch)
 - [ ] DEX Screener (to be funded by the CTO if a high enough market cap is achieved)
+
+## Grow the Community
+
+$SCAM thrives on engagement from all of us 🔥. Here are some ideas to help make it happen:
+
+-  📡 **Join the Telegram Group** to share ideas and connect.
+-  🐦 **Help manage, share and grow the X Account**: create memes and write $SCAMmy messages to spread the word.
+-  📈 **Comment on Pump.fun Page** to keep $SCAM trending.
+-  💬 **Talk About Us** on Reddit, Discord, and beyond.
+-  🎨 **Get Creative** with raids, votes, or any fun, legal ideas! (Free is better—likely nobody will pay for a $SCAM 😎.)
 
 ## CTO Note
 
