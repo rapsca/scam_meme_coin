@@ -25,7 +25,7 @@ To make it clear, nobody will prevent you from attempting to pump $SCAM's priceâ
 - [x] [Pump $SCAM coin](https://pump.fun/coin/Gk2XeKE4JHR3MH5tf3JvbbA1ZFba9Af8cebmry2Dpump)
 - [x] [Telegram group](https://t.me/scam_meme_coin)
 - [x] [X account](https://x.com/scam_meme_coin)
-- [x] [GitHub repository](https://github.com/rapsca/scam_meme_coin) to share documentation and assets (e.g., SVG logo)
+- [x] [GitHub repository](https://github.com/rapsca/scam_meme_coin) to share website code, documentation and assets (e.g., SVG logo)
 - [ ] Website (planned for release around around January 2nd)
 - [ ] Discord (created but unpublished, awaiting ~25 active contributors before launch)
 - [ ] DEX Screener (to be funded by the CTO if a high enough market cap is achieved)
